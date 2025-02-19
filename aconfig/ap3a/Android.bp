@@ -17,6 +17,7 @@ aconfig_value_set {
     values: [
       "aconfig-values-platform_build_release-ap3a-android.app.usage-all",
       "aconfig-values-platform_build_release-ap3a-com.android.launcher3-all",
+      "aconfig-values-platform_build_release-ap3a-com.google.android.apps.nexuslauncher-all",
       "aconfig-values-platform_build_release-ap3a-com.android.net.flags-all",
       "aconfig-values-platform_build_release-ap3a-com.android.server.power.optimization-all",
       "aconfig-values-platform_build_release-ap3a-com.android.appsearch.flags-all",

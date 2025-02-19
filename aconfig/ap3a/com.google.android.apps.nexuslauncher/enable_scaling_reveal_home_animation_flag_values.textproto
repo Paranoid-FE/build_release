@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.android.apps.nexuslauncher"
+  name: "enable_scaling_reveal_home_animation"
+  state: ENABLED
+  permission: READ_ONLY
+}
